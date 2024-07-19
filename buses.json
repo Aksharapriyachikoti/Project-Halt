@@ -1,0 +1,78 @@
+[
+    {
+      "busNumber": "1J",
+      "start": "jiyaguda",
+      "destination": "secunderabad"
+    },
+    {
+      "busNumber": "1P/25I",
+      "start": "alwal",
+      "destination": "koti"
+    },
+    {
+      "busNumber": "3K",
+      "start": "kushaiguda",
+      "destination": "afzal gunj"
+    },
+    {
+        "busNumber": "3H",
+        "start": "kushaiguda",
+        "destination": "afzal gunj" 
+    },
+    {
+        "busNumber": "5K",
+        "start": "mehadipatnam",
+        "destination": "zoo park" 
+    },
+    {
+        "busNumber": "5M",
+        "start": "secunderabad",
+        "destination": "birla mandir" 
+    },
+    {
+        "busNumber": "1R",
+        "start": "l.k.pool",
+        "destination": "tolichowki" 
+    },
+    {
+        "busNumber": "9Y",
+        "start": "yousufguda",
+        "destination": "charminar" 
+    },
+    {
+        "busNumber": "113K",
+        "start": "uppal",
+        "destination": "mehadipatnam"
+    },
+    {
+        "busNumber": "217D",
+        "start": "dilsukhnagar",
+        "destination": "patancheru"
+    },
+    {
+        "busNumber": "207",
+        "start": "ramoji film city",
+        "destination": "w.college"
+    },
+    {
+        "busNumber": "187D",
+        "start": "kphb colony",
+        "destination": "dilsukhnagar"
+    },
+    {
+        "busNumber": "10FY",
+        "start": "borabanda",
+        "destination": "secunderabad"
+    },
+    {
+        "busNumber": "9M",
+        "start": "charminar",
+        "destination": "sanathnagar"
+    },
+    {   
+        "busNumber": "10K",
+        "start": "kphb colony",
+        "destination": "secunderabad"
+    }
+  ]
+  
